@@ -63,13 +63,13 @@ p {
 
 #index-billede {
     max-width:40%;
-    max-height:40%;
+    max-height:auto;
 }
 
 #om-mig-billede {
     float:left;
     max-width:20%;
-    max-height:20%;
+    max-height:auto;
     margin-top: 50px;
     margin-right: 20px;
 } 
