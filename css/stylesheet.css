@@ -62,14 +62,14 @@ p {
 }
 
 #index-billede {
-    max-width:40%;
-    max-height:auto;
+    width:40%;
+    height:auto;
 }
 
 #om-mig-billede {
     float:left;
-    max-width:20%;
-    max-height:auto;
+    width:20%;
+    height:auto;
     margin-top: 50px;
     margin-right: 20px;
 } 
